@@ -89,7 +89,7 @@
 @media (min-width: 500px) {
   .cta-3 div{
     /* width: 50%; */
-    background: url(images/mobile/image-graphic-design.jpg) no-repeat;
+    background: url(../images/mobile/image-graphic-design.jpg) no-repeat;
     background-size: cover;
     /* border: 5px solid red; */
     height: 650px;
@@ -97,7 +97,7 @@
     padding: 10px;
   }
   .cta-3 div:last-child{
-    background: url(images/mobile/image-photography.jpg);
+    background: url(../images/mobile/image-photography.jpg);
     background-size: cover;
   }
   .cta-3 div h2,
@@ -116,7 +116,7 @@
 /* for devices with width pf 650px and more */
 @media (min-width: 650px) {
   header{
-    background: url(images/desktop/image-header.jpg);
+    background: url(../images/desktop/image-header.jpg);
     background-size: cover;
   }
   .cta div {
@@ -125,12 +125,12 @@
   }
   
   .cta-3 div{
-    background: url(images/desktop/image-graphic-design.jpg) no-repeat;
+    background: url(../images/desktop/image-graphic-design.jpg) no-repeat;
     background-size: cover;
     height: 500px;
   }
   .cta-3 div:last-child{
-    background: url(images/desktop/image-photography.jpg);
+    background: url(../images/desktop/image-photography.jpg);
     background-size: cover;
   }
   .cta-3 div h2,
@@ -232,7 +232,7 @@
   }
 
   .cta-3 div{
-    background: url(images/desktop/image-graphic-design.jpg) no-repeat;
+    background: url(../images/desktop/image-graphic-design.jpg) no-repeat;
     background-size: cover;
     height: 700px;
   }

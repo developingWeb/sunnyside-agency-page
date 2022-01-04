@@ -45,7 +45,7 @@ p{
 }
 
 header{
-  background: url(images/mobile/image-header.jpg);
+  background: url(../images/mobile/image-header.jpg);
   background-size: cover;
 }
 
@@ -157,14 +157,14 @@ nav ul li:last-child a:hover{
   align-items: center;
 }
 .cta-3 div{
-  background: url(images/mobile/image-graphic-design.jpg) no-repeat;
+  background: url(../images/mobile/image-graphic-design.jpg) no-repeat;
   background-size: cover;
   height: 560px;
   text-align: center;
   padding: 10px;
 }
 .cta-3 div:last-child{
-  background: url(images/mobile/image-photography.jpg);
+  background: url(../images/mobile/image-photography.jpg);
   background-size: cover;
 }
 .cta-3 div h2,
